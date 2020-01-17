@@ -1,5 +1,7 @@
 # Microscopy-Image-Treatment
  
+(see "Manual - Image Treatment.pdf" for detailed information)
+ 
 MatLab scripts for the treatment of fluorescence microcopy images, such as TIRF and Spinning Disk. The available treatment methods are:
 
 1) Alignment of image channels acquired with two separate camera's. Requires a calibration image with the same fluorescent bead sample in both channels.

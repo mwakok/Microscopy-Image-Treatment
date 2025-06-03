@@ -22,7 +22,7 @@
 function GUI
 clearvars -global Stack StackInfo Config
 
-addpath('bin');
+addpath('src');
 
 % Dialogue initialization
 
